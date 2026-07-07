@@ -1,2 +1,28 @@
-# 3ee677f9-debt-management-credit-compe
-You shouldn't need a virtual assistant just to move data between apps to automate a multi-tool business process in an afternoon.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Debt Management &amp; Credit Competitor Monitor
+# Debt Management & Credit Competitor Monitoring and Alert N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIbJ1eTt3o86xyeM4cZG1H)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIbJ1eTt3o86xyeM4cZG1H)
+
